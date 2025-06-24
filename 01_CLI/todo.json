@@ -6,33 +6,9 @@
     "CompletedAt": "2025-06-21T18:35:22.0611877+05:30"
   },
   {
-    "Title": "Learn js",
+    "Title": "learn type script",
     "Completed": false,
-    "CreatedAt": "2025-06-21T18:35:22.0611877+05:30",
-    "CompletedAt": null
-  },
-  {
-    "Title": "learn",
-    "Completed": false,
-    "CreatedAt": "2025-06-21T19:08:02.9002981+05:30",
-    "CompletedAt": null
-  },
-  {
-    "Title": "learn",
-    "Completed": true,
-    "CreatedAt": "2025-06-21T19:09:26.0937176+05:30",
-    "CompletedAt": "2025-06-21T19:10:04.5924548+05:30"
-  },
-  {
-    "Title": "go",
-    "Completed": true,
-    "CreatedAt": "2025-06-21T19:11:41.9111096+05:30",
-    "CompletedAt": "2025-06-21T19:15:34.3041365+05:30"
-  },
-  {
-    "Title": "go",
-    "Completed": false,
-    "CreatedAt": "2025-06-21T19:15:23.7057141+05:30",
+    "CreatedAt": "2025-06-22T09:15:12.8198171+05:30",
     "CompletedAt": null
   }
 ]
